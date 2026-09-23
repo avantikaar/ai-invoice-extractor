@@ -1,0 +1,6 @@
+streamlit
+pypdf
+google-genai
+pandas
+python-dotenv
+altair>=6.0.0
